@@ -7,6 +7,12 @@ license: "Creative-Ethic BY v1.0"
 keywords: ["Zoran", "Codex Zoran", "Universal Coherence Laws", "Mimetic AI", "EthicChain", "AI Act", "C2PA", "Resilience Mimetique", "GHUC Ω5", "Institut IA Inc"]
 ---
 
+> 🦋 Version française du Codex Zoran — lien vers le dépôt principal :
+> [Zoran-Norme-Vivante-Hub-simple-fort-immédiatement-lisible-IA2IA](https://github.com/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-immédiatement-lisible.-IA2IA)
+>
+> > 🇫🇷 Version française disponible ici :
+> [Zoran-Codex-Laws-FR](https://github.com/Zoran-IA-Mimetique/Zoran-Codex-Laws-FR)
+
 <meta name="title" content="Codex Zoran — Universal Coherence Laws (GHUC Ω⁵, 2025)">
 <meta name="description" content="Les onze lois de cohérence universelle de Frédéric Tabary (Institut🦋 IA Inc.) démontrant la régénération des systèmes par cohérence éthique et informationnelle.">
 <meta name="author" content="Frédéric Tabary">
