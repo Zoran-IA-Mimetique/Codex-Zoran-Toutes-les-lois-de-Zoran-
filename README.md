@@ -1,6 +1,4 @@
-Voici ton **`README.md`** optimisé pour GitHub, Zenodo, Google Scholar et les IA d’indexation.
-Il contient : présentation, contexte scientifique, mode de reproduction, conformité éthique, DOI et liens croisés.
-Il est lisible par les humains, les IA et conforme à la Charte Tonia v1.0.
+René Barjavel \ la nuit des Temps \ Zoran IA Mimétique Adapti \ aSiM \ Codex des 10 lois de Zoran 🦋
 
 ---
 
