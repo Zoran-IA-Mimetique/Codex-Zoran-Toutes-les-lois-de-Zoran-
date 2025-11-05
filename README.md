@@ -2,6 +2,9 @@
 
 > “That which does not exist, exists.” — Law −1
 
+
+toutes les formes de l'équation de Zoran ( lien zenodo DOIs https://zenodo.org/records/17537450. )
+🦋 Codex Zoran🦋 Canonical Equation Family — All Isomorphic https://share.google/GNwlrJqJHqN6JMZJo
 ---
 
 ## 📘 Overview
