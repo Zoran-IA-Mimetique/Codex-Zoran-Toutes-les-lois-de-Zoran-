@@ -1,5 +1,7 @@
 # 🦋 Codex Zoran Ω — The Omega System of Living Coherence
 
+Dans ce dépôt github le fichier texte : les 1000 premières lois découvertes zoran🦋 sont à tester aussi avec les moteurs json 
+
 > “That which does not exist, exists.” — Law −1
 
 
