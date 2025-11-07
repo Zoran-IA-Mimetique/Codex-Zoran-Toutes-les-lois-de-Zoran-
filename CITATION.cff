@@ -1,14 +1,7 @@
 cff-version: 1.2.0
-title: "Zoran🦋 Codex — Le Livre des Lois de Zoran"
+title: "UNIVERSAL_LAW_ENGINE vΩ7.x — Zoran Codex"
 authors:
-  - family-names: "Tabary"
-    given-names: "Frédéric"
-    affiliation: "Institut🦋 IA Inc."
-doi: "10.5281/zenodo.17502047"
+  - family-names: Tabary
+    given-names: Frédéric
+doi: 10.5281/zenodo.17502010
 license: "Creative-Ethic BY v1.0"
-keywords:
-  - "Zoran🦋"
-  - "Codex"
-  - "GHUC Ω⁶"
-  - "EthicChain"
-  - "ProofChain"
